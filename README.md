@@ -19,10 +19,10 @@
 
 | Method | Endpoint           | Description              |
 |--------|--------------------|--------------------------|
-| GET    | `/heroes`          | Get all heroes           |
-| GET    | `/heroes/:id`      | Get hero details         |
-| GET    | `/heroes/summary`  | Get heroes summary       |
-| GET    | `/heroes/search`   | Search heroes by query   |
+| GET    | `/heroes`          | [Get all heroes   ](https://heroes-backend-fft2.onrender.com/api/heroes)        |
+| GET    | `/heroes/:id`      | [Get hero details ](https://heroes-backend-fft2.onrender.com/api/heroes/clark-kent)        |
+| GET    | `/heroes/summary`  | [Get heroes summary    ](https://heroes-backend-fft2.onrender.com/api/heroes/summary)   |
+| GET    | `/heroes/search`   | [Search heroes by query](https://heroes-backend-fft2.onrender.com/api/heroes/search?name=a)   |
 
 ## 🎯 What This Tests
 
@@ -52,7 +52,7 @@ npm run start:dev
 ## 🦸 Full Stack Demo
 Frontend (React 19): https://hero-mvp-app.netlify.app
 
-Frontend Repo: Hero-app
+Frontend Repo: [Hero-app](https://github.com/franciscojgonzalezfernandez-lgtm/Hero-app)
 
 Built with ❤️ to learn NestJS (2026 playground)
 
